@@ -1,6 +1,6 @@
 package PattternProblems;
 
-public class Pattern3 {
+public class Pattern4 {
     public static void main(String[] args) {
 
         int n = 7;
@@ -15,7 +15,7 @@ public class Pattern3 {
 
             //stars
             for (int cos=1;cos<=stars;cos++){
-                System.out.print(cos;
+                System.out.print(cos);
             }
 
             System.out.println();
